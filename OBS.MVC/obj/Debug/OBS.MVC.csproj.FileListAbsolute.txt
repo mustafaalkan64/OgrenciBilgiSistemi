@@ -1,0 +1,220 @@
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\OBS.MVC.dll.config
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\OBS.MVC.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\OBS.MVC.pdb
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Antlr3.Runtime.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\EntityFramework.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Newtonsoft.Json.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Owin.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.Helpers.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.Mvc.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.Optimization.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.Razor.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\WebGrease.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.Helpers.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.Mvc.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.Optimization.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.Razor.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Newtonsoft.Json.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\EntityFramework.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\obj\Debug\OBS.MVC.dll
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\obj\Debug\OBS.MVC.pdb
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\OBS.MVC.dll.config
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\OBS.MVC.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\OBS.MVC.pdb
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Antlr3.Runtime.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\EntityFramework.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Newtonsoft.Json.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Owin.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Helpers.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Mvc.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Optimization.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Razor.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\WebGrease.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Helpers.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Mvc.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Optimization.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Razor.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Newtonsoft.Json.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\EntityFramework.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\obj\Debug\OBS.MVC.csprojResolveAssemblyReference.cache
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\obj\Debug\OBS.MVC.dll
+C:\Users\veysel.kizmaz\Desktop\Ugur\OBS.MVC\OBS.MVC\OBS.MVC\obj\Debug\OBS.MVC.pdb
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\OBS.MVC.dll.config
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\OBS.MVC.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\OBS.MVC.pdb
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Antlr3.Runtime.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\EntityFramework.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Newtonsoft.Json.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Owin.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Helpers.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Mvc.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Optimization.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Razor.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\WebGrease.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\EntityFramework.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Helpers.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Mvc.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Optimization.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.Razor.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Newtonsoft.Json.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\obj\Debug\OBS.MVC.csprojResolveAssemblyReference.cache
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\obj\Debug\OBS.MVC.dll
+C:\Users\vuk\Desktop\OBS.MVC\OBS.MVC\OBS.MVC\OBS.MVC\obj\Debug\OBS.MVC.pdb
+C:\Users\vuk\Documents\Visual Studio 2013\Projects\OBS.MVC\OBS.MVC\obj\Debug\OBS.MVC.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\OBS.MVC.dll.config
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\OBS.MVC.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\OBS.MVC.pdb
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Antlr3.Runtime.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\EntityFramework.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Newtonsoft.Json.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Owin.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.Helpers.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.Mvc.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.Optimization.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.Razor.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\WebGrease.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\EntityFramework.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.Helpers.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.Mvc.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.Optimization.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.Razor.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Newtonsoft.Json.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\obj\Debug\OBS.MVC.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\obj\Debug\OBS.MVC.dll
+C:\Users\MUSTAFA-PC\Desktop\Mvc5Dvd\Proje\OgrenciBilgiSistemi\OBS.MVC\OBS.MVC\obj\Debug\OBS.MVC.pdb
